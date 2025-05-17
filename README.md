@@ -1,2 +1,4 @@
 # fog-cloud-environment-simulator
 This simulator is highly detailed and closely mirrors real-world scenarios 
+
+For my master's thesis, I implemented a fog-cloud environment simulator using Python, which consists of over 3000 lines of code. This simulator is highly detailed and closely mirrors real-world scenarios. The program includes three layers: cloud, fog, and end-devices, each with properties resembling their real-world counterparts. The goal of this implementation was to design and develop scheduling algorithms, as well as to allocate resources for user-requested and generated tasks. It is worth noting that this program was designed following software engineering principles, allowing future work to be carried out with minimal modifications. Scheduling algorithms and resource allocation can be applied to it, and the relevant outputs can be displayed graphically and compared with other methods. 
